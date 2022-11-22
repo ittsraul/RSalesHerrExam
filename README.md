@@ -1,2 +1,2 @@
 # RSalesHerrExam
-Exam 1
+Examen 1
